@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">netflix</string>
+    <string name="todos">netflix</string>
+    <string name="user">Ingrese su email</string>
+    <string name="pass">Ingrese su contraseña</string>
+    <string name="btnIn">Iniciar sesion</string>
+    <string name="eagle">Aguila</string>
+    <string name="politicas">politicas</string>
+</resources>

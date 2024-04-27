@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "919353544208",
+    "project_id": "replay-6f428",
+    "storage_bucket": "replay-6f428.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:919353544208:android:ba9cb53777b651fc548495",
+        "android_client_info": {
+          "package_name": "com.example.replay"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBqVByd7SBBcwAqKWX7P-W0ZCs0ONdJyk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
